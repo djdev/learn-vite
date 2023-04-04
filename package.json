@@ -1,0 +1,24 @@
+{
+  "name": "learn-vite",
+  "version": "1.0.0",
+  "description": "project to learn vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djdev/learn-vite.git"
+  },
+  "keywords": [
+    "vite",
+    "npm",
+    "git"
+  ],
+  "author": "DJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djdev/learn-vite/issues"
+  },
+  "homepage": "https://github.com/djdev/learn-vite#readme"
+}
