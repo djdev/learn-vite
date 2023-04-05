@@ -4,6 +4,7 @@
   "description": "project to learn vite",
   "main": "index.js",
   "scripts": {
+    "dev": "vite dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/djdev/learn-vite/issues"
   },
-  "homepage": "https://github.com/djdev/learn-vite#readme"
+  "homepage": "https://github.com/djdev/learn-vite#readme",
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
 }
